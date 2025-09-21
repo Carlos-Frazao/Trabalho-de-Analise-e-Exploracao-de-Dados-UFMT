@@ -1,39 +1,39 @@
 # Trabalho de Análise e Exploração de Dados
 
-[cite_start]Este trabalho foi realizado para a disciplina de **Programação I** [cite: 2] [cite_start]do curso de Bacharelado em Ciência da Computação da **Universidade Federal de Mato Grosso (UFMT)**[cite: 3].
+Este trabalho foi realizado para a disciplina de Programação I do curso de Bacharelado em Ciência da Computação da Universidade Federal de Mato Grosso (UFMT).
 
 ## Sobre o Projeto
 
-[cite_start]O projeto consiste em uma introdução à **Ciência de Dados (Data Science)** [cite: 8][cite_start], com foco específico na etapa de **Análise Exploratória de Dados** (Exploratory Data Analysis)[cite: 11]. [cite_start]O objetivo principal é conhecer os dados, levantar informações e entender as características do conjunto de dados[cite: 10, 22].
+O projeto consiste em uma introdução à Ciência de Dados (Data Science), com foco específico na etapa de Análise Exploratória de Dados (Exploratory Data Analysis). O objetivo principal é conhecer os dados, levantar informações e entender as características do conjunto de dados.
 
 ## Tecnologias e Bibliotecas Utilizadas
 
 Para a realização deste trabalho, foram utilizadas as seguintes bibliotecas em Python:
 
-* [cite_start]**Numpy**: para cálculos matemáticos[cite: 15].
-* [cite_start]**Pandas**: para análise e manipulação de grandes volumes de dados[cite: 16, 19].
-* [cite_start]**Seaborn**: para geração de gráficos[cite: 20].
+* **Numpy**: para cálculos matemáticos.
+* **Pandas**: para análise e manipulação de grandes volumes de dados.
+* **Seaborn**: para geração de gráficos.
 
 ## Conjunto de Dados
 
-[cite_start]O projeto utiliza a base de dados **"California Housing Dataset"** [cite: 109][cite_start], que contém mais de 20 mil registros com 8 atributos sobre imóveis na Califórnia[cite: 111]. [cite_start]A variável-alvo é o valor do imóvel (`MedHouseVal`)[cite: 121].
+O projeto utiliza a base de dados "California Housing Dataset", que contém mais de 20 mil registros com 8 atributos sobre imóveis na Califórnia. A variável-alvo é o valor do imóvel (MedHouseVal).
 
 ## Tarefas e Requisitos do Trabalho
 
-[cite_start]As seguintes tarefas foram executadas conforme os requisitos do trabalho[cite: 107]:
+As seguintes tarefas foram executadas conforme os requisitos do trabalho:
 
-1.  [cite_start]Carregamento da base de dados, criação de um `Pandas.DataFrame` e execução da função `describe()`[cite: 124].
-2.  [cite_start]Geração de um gráfico de dispersão com as variáveis de latitude e longitude usando o Seaborn[cite: 126].
-3.  [cite_start]Cálculo das principais métricas estatísticas para seis variáveis da base de dados[cite: 136, 145]. [cite_start]As métricas calculadas incluem: Média [cite: 137][cite_start], Mediana [cite: 138][cite_start], Moda [cite: 140][cite_start], Variância [cite: 141][cite_start], Desvio padrão [cite: 142][cite_start], Quantis [cite: 143] [cite_start]e IQR[cite: 144].
-4.  [cite_start]Geração de BoxPlots e Histogramas para as mesmas variáveis[cite: 147].
-5.  [cite_start]Identificação de, no mínimo, 2 pares de variáveis que apresentam correlação entre si[cite: 149].
-6.  [cite_start]Elaboração de um relatório em PDF com a análise completa do estudo[cite: 154].
+1.  Carregamento da base de dados, criação de um `Pandas.DataFrame` e execução da função `describe()`.
+2.  Geração de um gráfico de dispersão com as variáveis de latitude e longitude usando o Seaborn.
+3.  Cálculo das principais métricas estatísticas para seis variáveis da base de dados (Média, Mediana, Moda, Variância, Desvio padrão, Quantis e IQR).
+4.  Geração de BoxPlots e Histogramas para as mesmas variáveis.
+5.  Identificação de, no mínimo, 2 pares de variáveis que apresentam correlação entre si.
+6.  Elaboração de um relatório em PDF com a análise completa do estudo.
 
 ## Arquivos no Repositório
 
 * `Relatorio.pdf`: Relatório final do trabalho.
 * `Trab7-DataScience.pdf`: Enunciado original do trabalho.
-* Outros arquivos do projeto, como o notebook ou código-fonte.
+* O código-fonte da análise (Jupyter Notebook ou script .py).
 
 ## Autores
 
