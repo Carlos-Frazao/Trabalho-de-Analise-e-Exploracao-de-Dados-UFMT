@@ -37,5 +37,6 @@ As seguintes tarefas foram executadas conforme os requisitos do trabalho:
 
 ## Autores
 
-* **Carlos-Frazao**
+* **Carlos Frazao**
 * **Paulo Enrique**
+
